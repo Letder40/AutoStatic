@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/usr/bin/env python
 import os
 
 isroot = os.environ.get("USER")
